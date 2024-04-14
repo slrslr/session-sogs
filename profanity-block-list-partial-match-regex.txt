@@ -1,0 +1,18 @@
+# WARNING 1: messages containing following phrases will be deleted
+# WARNING 2: if your regex is made to match "bad" then it will delete for example messages containing "Sindibad." (partial matching)
+# NOTE: regexes may contain: \[[:alpha:\]] alpha letter/s, \[[:digit:\]] digit/s, \[[:alnum:\]] Any alphanumeric/s, \[[:graph:\]] any printable, \[[:print:\]] any printable and space
+# NOTE: Letters that may be doubled, trippled etc. by the spammer, one can write a regex: pp*ii*zz*zz*aa* (matches for example pppiizzaaaaaaaa)
+05[[:alnum:]]{64}
+##05[[:alnum:]]{13,}
+B05[[:alnum:]]{64}[[:punct:]]?
+bounce[[:punct:]]money
+bouncedd*oo*tt*money
+bounce[[:space:]]dd*oo*tt*[[:space:]]money
+simplex[[:punct:]]chat/invitation
+simplexdd*oo*tt*chat/invitation
+simplex[[:space:]]dd*oo*tt*[[:space:]]chat/invitation
+simplex[[:punct:]]chat/contact
+simplexdd*oo*tt*chat/contact
+simplex[[:space:]]dd*oo*tt*[[:space:]]chat/contact
+c+h+e+[sz]+[ey]+[[:punct:][:space:]]*p+i+[sz]+a+
+c+o+p+y+[[:punct:][:space:]]*a+n+d+[[:punct:][:space:]]*p+a+[sz]+t+e+
