@@ -2,7 +2,7 @@
 # This Linux bash script is meant for getsession.org SOGS servers.
 # It uses a SQL command to get last X messages posted into all communities and if these contains any bad phrase listed in the blocklist file ($repatternsfile) or regular expressions file ($literalstringsfile), then:
 # it runs a SQL command to delete such message (it gets removed also from the Session clients).
-# Script can be run on the background by adding into a (root?) crontab (sudo su; crontab -e) new line i.e.: @reboot /bin/bash /root/scripts/session-profanity-remover &
+# Script can be run on the background by adding into a (root?) crontab (sudo su; crontab -e) new line i.e.: @reboot /bin/bash /var/lib/session-open-group-server/session-profanity-remover.sh &
 
 # Defining paths of a blocklist files:
 # repatternsfile should contain regular expressions. Don't have the file? Use prebuilt blocklist: https://raw.githubusercontent.com/slrslr/misc/main/profanity-block-list-partial-match-regex.txt
