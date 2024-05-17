@@ -8,4 +8,6 @@
 
 **profanity-block-list-partial-match-regex.txt** - list of regular expressions that are matching spam phrases like cheeeeeese pizzzzaa and similar where insistent spammers trying to evade/workaround the primary profanity blocklist.
 
-**session-sogs-prevent-disable-pm-dm-for-regular-users.sh** - Linux bash script to help SOGS admin to add or remove a database trigger that will prevent regular users without admin/mod privileges to send PM/DM to others.
+**session-moderator-list-unban-keep-rights.sh** - Linux bash script meant for getsession.org SOGS servers to maintain list of selected Session IDs as a community moderators or admins and keep these IDs not banned. Running this script reverts malevolent community admins removals/bans of other mods/admins.
+
+**session-sogs-prevent-disable-pm-dm-for-regular-users.sh** - Linux bash script meant for getsession.org SOGS servers to help admin add or remove a database trigger that will prevent regular users without admin/mod privileges to send PM/DM to others.
