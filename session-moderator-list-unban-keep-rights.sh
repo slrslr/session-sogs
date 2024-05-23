@@ -54,4 +54,8 @@ sudo sogs --rooms "$comname" --"$action"-moderators $(cat "$modsids") "$admin"--
 echo -e "Restoring profanity blocklist..."
 cp -fp "$profanityfile"_"$(date --rfc-3339=date)" "$profanityfile" # restore blocklist
 
+# Restore latest non-empty profanity backup file in place of the source file in case source file is empty (assuming it has been erroneously emptied):
+filename=$(basename -- "$profanityfile");extension="${filename##*.}";filename="${filename%.*}";directory=$(dirname -- "$profanityfile");
+[[ -s "$profanityfile" ]] && echo "[SUCCESS] Profanity file is not empty" || { cp -p "$(ls -l "$directory"/"$filename"."$extension"_*|grep -v "    0"|tail -n 1|awk '{print $9}')" "$directory"/"$filename"."$extension"; echo "Profanity file has been empty, so the script restored latest non-empty backup. Current file line count is: $(wc -l $profanityfile)"; }
+
 echo -e "Finished."
