@@ -16,7 +16,7 @@
 # B) admins...........: comname "'*'" or "room1" or "room1 room2" and admin "--admin"
 # C) global moderators: comname "+" and admin ""
 # D) moderators.......: comname "'*'" or "room1" or "room1 room2" and admin ""
-# 3. ideally after backing up the database, run "chmod 600 thisscriptname" and run a command to insert new hourly cronjob (first edit path inside that command):
+# 3. ideally after backing up the database, run "chmod 600 thisscriptname" and run a command to insert new hourly cronjob (first edit path inside that command and run the command without "# " at the begining):
 # echo -e "$(crontab -l 2>/dev/null)\n44 * * * * /bin/bash /path/to/scripts/session-moderator-list-unban-keep-rights.sh &>/dev/null" | crontab -
 #set -exu
 
