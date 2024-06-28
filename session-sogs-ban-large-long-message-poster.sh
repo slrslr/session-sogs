@@ -14,6 +14,9 @@ FOR EACH ROW
 WHEN
     NEW.data_size > 18000
 BEGIN
+    -- "Delete message"
+    DELETE FROM messages WHERE message_id = NEW.message_id;
+    -- "Ban user"    
     INSERT INTO user_permission_overrides (user,room,banned) VALUES (NEW.user,NEW.room,1);
 END;
 
