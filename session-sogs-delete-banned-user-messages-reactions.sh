@@ -8,8 +8,8 @@ if [[ "$i" == "r" ]]; then sqlite3 /var/lib/session-open-group-server/sogs.db 'D
 
 -- "TRIGGER: Delete messages belonging to banned users"
 -- "TRIGGER: Delete user_reactions when a user is banned"
-DROP TRIGGER IF EXISTS oddchat_bans_delete_messages;
-CREATE TRIGGER oddchat_bans_delete_messages
+DROP TRIGGER IF EXISTS bans_delete_messages;
+CREATE TRIGGER bans_delete_messages
 AFTER UPDATE OF banned ON users
 FOR EACH ROW
 WHEN NEW.banned = TRUE
