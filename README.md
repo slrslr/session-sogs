@@ -15,3 +15,5 @@
 **session-sogs-prevent-disable-pm-dm-for-new-regular-users.sh** - Linux bash script meant for getsession.org SOGS servers to help admin add or remove a database trigger that will prevent new regular users without admin/mod privileges to send PM/DM to others. Older users can send.
 
 **session-sogs-ban-large-long-message-poster.sh** - Linux bash script meant for getsession.org SOGS servers to help admin add or remove a database trigger that will ban user who posts too long text message.
+
+**session-sogs-delete-banned-user-messages-reactions.sh** - Linux bash script meant for getsession.org SOGS servers to help admin add or remove a database trigger that will delete messages and reactions of a user who gets banned
