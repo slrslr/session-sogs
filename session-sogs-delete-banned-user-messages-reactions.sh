@@ -2,7 +2,7 @@
 # Linux bash script. Make this file executable (chmod +x filename) and run ("./filename" or "bash filename").
 
 read -r -p "Add a database trigger to delete all messages and reactions of a banned user? Type letter a to add trigger or letter r to remove trigger:" i
-if [[ "$i" == "r" ]]; then sqlite3 /var/lib/session-open-group-server/sogs.db 'DROP TRIGGER insert_into_inbox;'; else
+if [[ "$i" == "r" ]]; then sqlite3 /var/lib/session-open-group-server/sogs.db 'DROP TRIGGER bans_delete_messages;'; else
 
 --() { :; }; exec sqlite3 /var/lib/session-open-group-server/sogs.db <<EOF
 
