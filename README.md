@@ -17,3 +17,5 @@
 **session-sogs-ban-large-long-message-poster.sh** - Linux bash script meant for getsession.org SOGS servers to help admin add or remove a database trigger that will ban user who posts too long text message.
 
 **session-sogs-delete-banned-user-messages-reactions.sh** - Linux bash script meant for getsession.org SOGS servers to help admin add or remove a database trigger that will delete messages and reactions of a user who gets banned
+
+**session-sogs-allow-users-older-than-defined-date-to-write-post-despite-community-writing-is-disabled.sh** - Linux bash script meant for getsession.org SOGS servers that helps override disabled writing permission in all communities (sogs --rooms + --remove-perms w) for users older than specified date/time. Rest users can not override this so they can not post. Such situation helps treating spam/flood done by new user/s or new spam bots while allowing old users to post.
