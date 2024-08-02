@@ -2,6 +2,8 @@
 
 Requirement for many script is a sqlite3 package: sudo apt install sqlite3
 
+You should open following script files to see what it is doing and to adjust its variables if needed
+
 ---
 
 ## Profanity automatic removal:
