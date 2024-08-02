@@ -1,21 +1,26 @@
-# misc
+# Session Community Server (SOGS) Linux bash scripts
 
-**session-profanity-remover.sh** - Linux bash script meant for getsession.org SOGS servers, made due to insufficient capabilities of the default profanity blocking. This script removes unwanted posts from a SOGS SQL database (and from Session clients) after it is being posted. It is meant for long spam phrases (partial matching) and to deal with profanity blocklist evaders thanks to a regular expressions blocklist processing.
+Requirement for many script is a sqlite3 package: sudo apt install sqlite3
 
-**profanity-block-list.txt** - list of words/phrases aimed to be blocked in a civilized discussion. Some listed phrases are questionable for blocking. Some should be removed if you allow DMs/PMs which allows paed.philes and similar to get in contact on messenger like Sessi.n (search for dm, pm, message, msg, add, group, grp, room).
+**session-profanity-remover.sh** - automatically removes unwanted posts from a SOGS SQL database (and from Session clients) after it is being posted. It is meant for a long spam phrases for partial matching (phrase "bad" would match and delete messages containing i.e. "Sinbad") and is also meant to deal with a profanity blocklist evaders thanks to a processing of a secondary, regular expressions blocklist.
 
-**profanity-block-list-partial-match.txt** - list of longer phrases aimed to be blocked in a civilized discussion. List should be more or less safe for partial matching, mostly effective against lazy perverts and ped0s in a discussions.
+**profanity-block-list.txt** - list of a words/phrases aimed to be blocked in a civilized discussion. Some listed phrases are questionable for blocking. You should remove some of these in case you allow DMs/PMs, which allows paed.philes and similar to get in contact, to remove pm/dm blocking, search for dm, pm, message, msg, add, group, grp, room.
+
+**profanity-block-list-partial-match.txt** - list of a longer phrases aimed to be blocked in a civilized discussion. List should be more or less safe for partial matching, mostly effective against lazy perverts and ped0s in a discussions.
 
 **profanity-block-list-partial-match-regex.txt** - list of regular expressions that are matching spam phrases like cheeeeeese pizzzzaa and similar where insistent spammers trying to evade/workaround the primary profanity blocklist.
 
-**session-moderator-list-unban-keep-rights.sh** - Linux bash script meant for getsession.org SOGS servers to maintain list of selected Session IDs as a community moderators or admins and keep these IDs not banned. Running this script reverts malevolent community admins removals/bans of other mods/admins.
 
-**session-sogs-prevent-disable-pm-dm-for-regular-users.sh** - Linux bash script meant for getsession.org SOGS servers to help admin add or remove a database trigger that will prevent regular users without admin/mod privileges to send PM/DM to others.
+**session-moderator-list-unban-keep-rights.sh** - maintain list of selected Session IDs as a community moderators or admins and keep these IDs not banned. Running this script reverts malevolent community admins removals/bans of other mods/admins.
 
-**session-sogs-prevent-disable-pm-dm-for-new-regular-users.sh** - Linux bash script meant for getsession.org SOGS servers to help admin add or remove a database trigger that will prevent new regular users without admin/mod privileges to send PM/DM to others. Older users can send.
+**session-sogs-prevent-disable-pm-dm-for-regular-users.sh** - add or remove a database trigger that will prevent regular users without admin/mod privileges to send PM/DM to others.
 
-**session-sogs-ban-large-long-message-poster.sh** - Linux bash script meant for getsession.org SOGS servers to help admin add or remove a database trigger that will ban user who posts too long text message.
+**session-sogs-prevent-disable-pm-dm-for-new-regular-users.sh** - add or remove a database trigger that will prevent new regular users without admin/mod privileges to send PM/DM to others. Older users can send.
 
-**session-sogs-delete-banned-user-messages-reactions.sh** - Linux bash script meant for getsession.org SOGS servers to help admin add or remove a database trigger that will delete messages and reactions of a user who gets banned
+**session-sogs-ban-large-long-message-poster.sh** - add or remove a database trigger that will ban user who posts too long text message.
 
-**session-sogs-allow-users-older-than-defined-date-to-write-post-despite-community-writing-is-disabled.sh** - Linux bash script meant for getsession.org SOGS servers that helps override disabled writing permission in all communities (sogs --rooms + --remove-perms w) for users older than specified date/time. Rest users can not override this so they can not post. Such situation helps treating spam/flood done by new user/s or new spam bots while allowing old users to post.
+**session-sogs-delete-banned-user-messages-reactions.sh** - add or remove a database trigger that will delete messages and reactions of a user who gets banned.
+
+**session-sogs-allow-users-older-than-defined-date-to-write-post-despite-community-writing-is-disabled.sh** - override disabled writing permission in all communities (sogs --rooms + --remove-perms w) for users older than specified date/time. Rest users can not override this so they can not post. Such situation helps treating spam/flood done by new user/s or new spam bots while allowing old users to post.
+
+**session-sogs-delete-messages-containing.sh** - search SOGS database for a messages containing yours defined text (possible to partial match: %ery b%d phras%). After the text is output, you can optionally delete matching messages
