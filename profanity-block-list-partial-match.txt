@@ -1,20 +1,12 @@
-# WARNING 1: messages containing following phrases will be deleted
-# WARNING 2: if you enter "bad" then it will delete for example messages containing "Sindibad." (partial matching)
-# this blocklist is meant for longer infrequently posted phrases
-# it may contain some safe small talk phrases like "Anybody wanna chat" so you should go through the list and remove
-(NO LIMITS)
+ WARNING 1: messages containing following phrases will be deleted
+# WARNING 2: if you enter "bad" then it will delete for example messages containing "Sindibad."
+# add rarely posted lower risk long phrases because these phrases are not prevented to be posted...
+# poster does not see explanation blocked message, but the message is deleted by the custom script.
+🇭(NO LIMITS)
 (NO LIMITS)
 /invite/i
 /invite/i
-0509ddc6
-118df8c6c471ac0468c7c77e1cdc12f24a139ee8a07c6e3bf4e7855640dad821
-185.193.125.166
-48 h wait
-48 h. wait
-48h wait
-48h. wait
-80.78.25.94
-96CT5MT8S
+118df8c6c471ac0468c7c77e1cdc12f24a139ee8a07c6e3bf4e7855640dad
 add me as well
 add me in a
 add me in groups
@@ -31,7 +23,6 @@ Add me to something
 add me to whatever group
 add me to your groups
 add me too
-add to be added to gr
 Ah-pen-yen
 Any girls wanna chat
 Any girls want to chat
@@ -42,7 +33,6 @@ any groups to be added
 any groups to join
 any hardcore group
 any hardcore groups
-any horny bud
 Any limitless
 Any more grops
 Any real girls
@@ -52,8 +42,6 @@ Anyone else edging
 Anyone German here
 anyone got any groups
 Anyone got groups
-anyone has any group
-anyone on?
 Anyone up for chatting
 Anyone wanna chat
 anyone want to chat
@@ -69,11 +57,9 @@ BbLover
 Bit quiet here
 bored af
 Bored too
-bounce .money
-bounce dot money
-bounce.money
 brutal pounding
 brutal pounding
+bura7xfe.cc
 c.0.c.k
 c.o.c.k.
 c.u.n.t
@@ -140,7 +126,6 @@ CheezePiszza
 CheeziePissa
 CheeziePissa
 CheeZPizza
-CheezsePiszza
 Cheezze Pisszza
 Cheezze Pisszza
 CheisePiszza
@@ -173,8 +158,6 @@ ChzzPiszza
 ChzzPizza
 ChzzPizza
 cock real hard
-cook a girl
-Coppyy and pas
 CP-group
 CP-group
 CP-room
@@ -210,18 +193,12 @@ CProoooom
 CProoooom
 crazy shit
 cum on them
-Cumming to these
-D m to join
 daughter dm
 daughter taboo
-direct m me for
 dirty fantasies
 dirty groups
 dirty roleplay
-Dm 2 join
-dm 4 pic
 Dm 4 trade
-dm 4 vid
 Dm for grp
 dm for n.l
 dm for nl
@@ -234,11 +211,7 @@ dm me for lil
 dm me for pd
 dm me for pd
 Dm me to trade
-DM mommy?
-Dm to trad the
 dm to trade
-dm with sampl
-dm'd you
 DM2Edge
 DM2Goon
 DMOpenDad
@@ -246,130 +219,36 @@ DMOpenDaddy
 DMs are open
 DMs are wide open
 dms aren't working
-ENQ57WWYF
 everybody is asleep
 everybody is asleep
 ex gf pics
-exposed wives
 extra cheese
 Extremely open minded
-family nudism
 familyvalues
 familyvalues
 flatties
 for jeunes
 for littels
-for teen group
 for teenies
-forbidden fruit trade
 forbidden group
 forbidden groups
-freespeech.monecrow.com
 fuck her
 fuck object
 fuckdolls
 fucking doll
-gets me so hard
 girl for private
-girls for  trade
-girls for trade
 girls scout cookies
-groops
 group no limit
 group, dm with example
 Groups or traders
 groups to trade
-grupp
-grèps
-grè̀ps
-grè́ps
-grè̄ps
-gréps
-gré̀ps
-gré́ps
-gré̄ps
-gròup
-gròùp
-gròùps
-gròúp
-gròúps
-gròûps
-gròüp
-gròüps
-gròūps
-gròŭps
-gróup
-gróùp
-gróùps
-gróüp
-gróüps
-gróūps
-gróū̜ps
-gróŭps
-grôup
-grôùp
-grôùps
-grôúp
-grôúps
-grôûp
-grôûps
-grôūps
-grôŭps
-gröup
-gröùp
-gröùps
-gröúp
-gröúps
-gröüp
-gröüps
-grøup
-grúps
-grú̀ps
-grú́ps
-grú̄ps
-grüop
-grüps
-grǜps
-grǘps
-grǖps
-grōùps
-grōûps
-grōūps
-grōū̜ps
-grōŭps
-grœup
-grūps
-grū̀ps
-grū́ps
-grū̄ps
-grơup
-grȍùps
-grȍūps
-grȏûps
-gr͂ups
-gr͂ūps
-gr͂èps
-gr͂éps
-gr͂ùps
-gr͂úps
-gr͂ǘps
-gr͂ǖps
-gřoup
-gřóup
-gḣoup
-gṛoup
-gṛóùp
-gṟơup
-hacked session account
 halfcheeseburger
 have my limits pushed
 have taboo
 HebeLuvr
 HebeLvr
 help me cum
-help me stroke
 holes filled
-horny buds
 HornyPerv
 How is everyone doing
 ht-rewrite.com
@@ -377,21 +256,16 @@ i fuck all pussys
 i fuck all pussys
 I need more groups
 I need to finish badly
-I'm leaking now
-images of little girls
-into extreme things
 InvestBCH.org
 invite me to anything
 Jemand deutsches
 Jerk buddies
 Jerking here
 jerking sessions
-kids pics send
 kinky moms
 kulikov3.de
 leeetle girrls
 leetles
-lick her for
 like little girls
 lil girls
 lilgirls
@@ -403,9 +277,6 @@ lils msg
 limitless grup
 links to trade
 littels
-little girl porn
-little girls porn
-little pizza
 little sis
 littlees
 Loli group
@@ -422,26 +293,20 @@ LuvSmooooth
 LuvSmoooth
 LuvSmooth
 m(E)ga linkz
-married dad
 masturbating right now
-masturbating rn
 me about young celebs
 me for hot pics
 me for pdo
 me something corrupt
-Message me. I have
 Mighty Joe Young
 mom and son
-mom for dm
 moms out there
 more intense thing
 motherfucka
 motherfucker
 motherfucking
-msg for porn
 msge me for
 mssge
-Mssge me for
 msssge
 mssssge
 mtherfucker
@@ -452,29 +317,20 @@ muthafucker
 mutherfucker
 mutherfucking
 muthrfucking
-my bumhole
-my cum over her
 n0limit
 Need help to get off
 need to be fed
-Need to bust a
 Nepifkr
-new gr p
-new grp.
 No l!ms
 odep backwards
 OldNNPerv
 open for any group
 open for naughty dms
 open for naughtydms
-Open minds around?
 OpenDad
 other active groups
 other groups adds
 other groups im open
-other groups?
-other places people can
-P m to join
 pain groups
 peeedo
 peeeedo
@@ -484,25 +340,19 @@ peeeeeeedo
 peeeeeeeedo
 peeeeeeeeedo
 PervDdy
-PerversePerson
 pervmom
 petite girls
-pictures of little girls
-pictures of young girls
 pizza with cheese
 PizzaLover
 PizzerLover
-Pm 2 join
 pm for nl
 pm me for celeb group
 pm me for groups
 pm me for lil
 pm me for pd
 pm me for pd
-pm me to trade
 pm prvs
 pm prvs
-pm with sampl
 PM2Edge
 PM2Goon
 PMOpenDad
@@ -511,92 +361,26 @@ PMs are open
 pms aren't working
 post posting list block
 post your contact
-precum over here
-preggo for dm
 preteen
 priv chat
 Priv fantasies
 priv pm me
 priv trd
-private messages turned off
 prv teen
-public_key=31e9a4335
 R@ygold
-rapist
-rapíst
-rapís̄t
 RealLolis
 rooom
 roooom
 rooooom
 roooooom
-ràpist
-ràpíst
-ràpíst
-ràpīst
-ràpīst
-ràpįst
-ràpįst
-rápist
-rápíst
-rápíst
-rápí̃st
-rápīst
-rápįst
-râpist
-râpíst
-râpíst
-rãpist
-rãpíst
-rãpíst
-räpist
-räpíst
-räpíst
-räpí̄st
-räpįst
-räpį̃st
-räþist
-räÞist
-råpíst
-råpí̄st
-råpïst
-råpïst
-råpį̃st
-rāpist
-rāpìst
-rāpìst
-rāpíst
-rāpíst
-rāpí̃st
-răpist
-răpíst
-rẫpist
-s.e.x. g.r.o.u.p.
-s2r cp
 sample to add to group
-sample to join
-samples to join
-scat in my
-scat on my
 search another group
 search another groups
 search another grps
-see me cumming
-send pic to join
-send pics to join
 send sample for group
 send to receive
-send vid to join
-send vids to join
-session.wiki
-SEX GROÚPS
-SEX GRÓUPS
 share wifes
 shooting ropes
-simplex dot chat/contact
-simplex dot chat/invitation
-simplex.chat/contact
-simplex.chat/invitation
 sis roleplay
 smoooooooth
 smooooooth
@@ -606,7 +390,7 @@ smoooth
 SmoothIsBest
 So hard rn
 some groups hmu
-Some porn groups
+trade group
 something more intense
 stones and tornado
 stroking to some
@@ -614,10 +398,7 @@ stuff to share
 suyxdf.de
 swap recovery frase
 swap recovery phrase
-séx gróúps
-t&b00
 t1ght
-t33 n chat
 taaaaaabbo
 taaaaabbbbbbo
 taaaaabbbbbo
@@ -655,82 +436,46 @@ taboo trades
 tabooFun
 TabooFun
 teeenss grrp
-teen girls wanna
-teen groupp
 TeenLvr
 TeenTrading
-Teleguard
-thatpxdo
 thiny girl
 thiny girls
 ThinyGirls
-this hole smell
 tight amateur
 TightBest
 TinyGrl
 TinyLuvr
-to ch*t
-to grou.ps
-to grrupp
-to stroke for
-to stroke with
 to trâde
-Topic under 14
 tr*ade
-trade group
-trade group dm
-trade group pm
-trade room hmu
 trade younger
 tradee
 trading groups
 Trading megas
-trading pics
 trd grp
 trd.msg
 trd.priv
-trde dm
-trusted seller
 Tryin to cum
 uncensored groups
-under 18 dm
-Under age group
 unrestricted chat
-up for a grp
-videos of little girls
-videos of young girls
 wanna see my D
 want to pump
 What yall doin
 What yall doing
 What yall up to
 What's up guys
-where people can trade
-Who is on?
 Who wants feeding
 Who's jerking
 Who’s stroking
-Wish I could dm
-Wish I could pm
 with sample for group
-with small bodies
 wives sharing
 worstc21.de
-write me a dm
-write me a pm
 yng porn
 ynnng
 ynnnng
 ynnnnng
 yong pics
 yong_trd
-young porn
 YoungTrade
-your dm are off
-your DM is closed
-Your DMs are off
-your pm are off
-your PM is closed
 yuuung
 yuuung
 yuuuung
@@ -739,6 +484,431 @@ yuuuuung
 yuuuuung
 yuuuuuung
 yuuuuuung
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤteens to degrade
 𝐺𝐼𝑅𝐿𝑆 𝑆𝐶𝑂𝑈𝑇 𝐶𝑂𝑂𝐾𝐼𝐸𝑆
 𝑃𝑈𝑅𝑃𝐿𝐸 𝐵𝑈𝐵𝐵𝐴
+groops
+trading pics
+exposed wives
+other groups?
+girls for  trade
+girls for trade
+trde dm
+Some porn groups
+horny buds
+to stroke with
+pm me to trade
+samples to join
+sample to join
+CheezsePiszza
+Mssge me for
+Who is on?
+married dad
+DM mommy?
+bounce.money
+bounce .money
+bounce dot money
+dm 4 vid
+dm 4 pic
+Need to bust a
+trade room hmu
+any horny bud
+PerversePerson
+forbidden fruit trade
+for teen group
+t33 n chat
+Topic under 14
+send vid to join
+send pic to join
+simplex.chat
+simplex.chat/invitation
+simplex.chat/contact
+simplex dot chat/invitation
+simplex dot chat/contact
+under 18 dm
+help me stroke
+Your DMs are off
+Cumming to these
+dm'd you
+my bumhole
+scat in my
+scat on my
+private messages turned off
+up for a grp
+direct m me for
+to ch*t
+into extreme things
+Under age group
+hacked session account
+trusted seller
+videos of little girls
+pictures of little girls
+images of little girls
+kids pics send
+send vids to join
+send pics to join
+new gr p
+new grp.
+D m to join
+P m to join
+Dm 2 join
+Pm 2 join
+family nudism
+s.e.x. g.r.o.u.p.
+séx gróúps
+precum over here
+I'm leaking now
+ENQ57WWYF
+96CT5MT8S
+Teleguard
+SEX GRÓUPS
+SEX GROÚPS
+s2r cp
+pm with sampl
+dm with sampl
+your DM is closed
+your PM is closed
+see me cumming
+🔵videos of young girls
+pictures of young girls
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤteens to degrade
+public_key=31e9a4335
+Open minds around?
+to grrupp
+add to be added to gr
+0509ddc6
+grōūps
+gròūps
+grȍūps
+grôūps
+grōùps
+gróūps
+grōûps
+grôùps
+gròûps
+gròùps
+grȏûps
+grȍùps
+grōŭps
+gròŭps
+grôŭps
+gróŭps
+grōū̜ps
+gróū̜ps
+grôûps
+gröüps
+gròüps
+gróùps
+gróüps
+gröùps
+gròúps
+grôúps
+gröúps
+gròùp
+grôûp
+gröüp
+gròüp
+gróùp
+grôùp
+gróüp
+gröùp
+gròúp
+grôúp
+gröúp
+grüps
+grūps
+gréps
+grèps
+grúps
+grǖps
+grū̄ps
+gré̄ps
+grè̄ps
+grú̄ps
+grǜps
+grū̀ps
+gré̀ps
+grè̀ps
+grú̀ps
+grǘps
+grū́ps
+gré́ps
+grè́ps
+grú́ps
+gr͂ups
+gr͂ùps
+gr͂úps
+gr͂ūps
+gr͂éps
+gr͂èps
+gr͂ǘps
+gr͂ǖps
+grôup
+gròup
+gröup
+gróup
+grøup
+grüop
+grupp
+gṛoup
+gřoup
+gḣoup
+grœup
+grơup
+gřóup
+gṟơup
+gṛóùp
+rapist
+räpist
+rāpist
+ràpist
+rápist
+răpist
+râpist
+rãpist
+rẫpist
+räpíst
+råpíst
+rāpíst
+ràpíst
+rápíst
+râpíst
+rãpíst
+rāpìst
+ràpīst
+räþist
+råpïst
+ràpįst
+rápí̃st
+räpį̃st
+råpį̃st
+rapíst
+räpíst
+rāpíst
+ràpíst
+rápíst
+răpíst
+râpíst
+rãpíst
+rāpìst
+ràpīst
+rápīst
+räÞist
+råpïst
+ràpįst
+rápįst
+räpįst
+rāpí̃st
+rapís̄t
+räpí̄st
+råpí̄st
+preggo for dm
+mom for dm
+little pizza
+teen girls wanna
+freespeech.monecrow.com
+0585c182c1034859
+Coppyy and pas
+anyone has any group
+trade group dm
+trade group pm
+masturbating rn
+little girl porn
+little girls porn
+Wish I could dm
+Wish I could pm
+young porn
+t&b00
+thatpxdo
+my cum over her
+this hole smell
+msg for porn
+80.78.25.94
+session.wiki
+anyone on?
+to stroke for
+to grou.ps
+lick her for
+48 h wait
+48h. wait
+48h wait
+48 h. wait
+write me a dm
+write me a pm
+185.193.125.166
+your pm are off
+your dm are off
+Message me. I have
+other places people can
+where people can trade
+gets me so hard
+Dm to trad the
+cook a girl
+with small bodies
+shot me a message
+Morning boner
+try messaging me
+send your usr codee
+rough anal
+Dm to goon
+got C. P
+Invite to another group
+trib 4 trib
+down for trading
+group for pervs
+fuck on their family
+𝐂𝐚𝐫𝐝𝐢𝐧𝐠❤
+185.193.126.112
+other gruops
+Anyone into young
+Sell Dumps With
+Fresh Dumps With
+Verified Dumps with
+VERIFIED CARDER
+Cvv Fullz
+Dumps With Pin
+Ed_wx0
+replacemnt when card not working
+@PhormularAj
+Dogood09
+legit flips and transfer
+pic trade group
+pics trade group
+kinks or taboos
+underage trade group
+93.95.230.129
+love child porn
+I will kill your
+rape your children
+kill your child
+Stroking hard
+anyone other nice groups
+sog.zcyph.cc/offtopic
+any woman for dm
+t3en
+little girls private group
+any girl want to chat
+groups or trades
+legit instantly transfer
+80.78.28.44
+𝖫𝗂𝗍𝗍𝗅𝖾 𝖦𝗂𝗋𝗅𝗌
+NO RULES XXX
+COPY TO JOIN
+Inbox Me
+Venmo Transfers
+Hmu for my room
+like kíds
+89.147.109.42
+𝖯𝗈𝗌𝗍 𝖠𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝖳𝗁𝖺𝗍 𝖸𝗈𝗎 𝖫𝗂𝗄𝖾!
+𝖢𝗈𝗉𝗒 𝖳𝗁𝖾 𝖫𝗂𝗇𝗄 𝖳𝗈 𝖩𝗈𝗂𝗇
+ready for your flips
+Cc With Full Info
+*Fullz
+100% legit cash app
+copy and then join
+do you like kíds
+session cómmunity
+getting raped
+dm anyone?
+𝖫𝗂𝗍𝗍𝗅𝖾 𝖦𝗂𝗋𝗅𝗌 𝖠𝗋𝖾 𝖲𝖾𝗑𝗒
+𝖠𝗇𝖽 𝖳𝗁𝖾𝗋𝖾 𝖠𝗋𝖾 𝖭𝗈 𝖱𝗎𝗅𝖾𝗌!
+𝖢𝗈𝗉𝗒 𝖳𝗁𝖾 𝖫𝗂𝗇𝗄 𝖳𝗈 𝖩𝗈𝗂𝗇!
+horse porn
+Hmu for trade
+for trade room
+my trade room
+copy and paste to shoot
+video trade room
+image trade room
+Any lil groups?
+nudist family
+Young and pregnant
+want to caption your
+session.𝚠𝚒𝚔𝚒
+bust a quick nut
+Pervin n jerkin
+Send me groups
+naughty swaps
+group of young girls
+wanna go pvt
+Jerking at work
+vids to trade
+Anyone want tributes
+Mom and daughter anyone
+down to trade
+80.78.25.23
+horny.contact
+I need to corrupt
+🅰𝐝𝐮𝐥𝐭
+have any private groups
+who horny?
+Anyone to dm?
+your dm is disabled
+message requests
+tradé teens
+sex with kids
+any other group?
+Im horny
+Anyone chat?
+dirty minds
+05a44597c2433a3e87
+looking to private chat
+nude families
+YoungDmsOpen
+Trade videos? Pm
+Trade videos? Dm
+I'm horny
+5831cc369c9eb7e5f9ae2502c9641947adf82466b532c151c2a2a4f2294d3
+195.246.230.17
+anyone doing tributes
+Dads with daughters?
+anal pounding
+PERVß
+🚨⚠❗🚩𝘴𝘪𝘮𝘱𝘭𝘦𝘹
+fave body type?
+Anyone for chat?
+I will kill anyone
+up 4 groop
+Top quality powder
+has links for cp
+kinky chat send
+found mom items
+anyone for hot chat
+cum dumpster
+any more groups
+any boy cp
+any girl cp
+trading everything,
+707241cf6b917a69bec88e3f3c500414ddde03b97c059e69c0490af6b4
+male into skinny
+dms are always open
+DM is always open
+Sister fucker
+PussyLover
+I can tribute your
+anyone do tributes
+Like teens ?
+Pizza ?
+Roleplaying on my dms
+torpedo links
+I love skinny
+like girl porn
+Trade ?
+for mic and wank
+group send sample
+Anyone looking to trade
+I'm into skinny
+got any groups?
+any women up for
+ㄷp group
+clone cards vendor
+Msg for prices
+maxiplug.24
+24/7 for drops
+Your Cash App Tag
+✅CC  ✅CVV
+c4dfs7ezdk3m3cwccke3qjt7w3nxjlvqvo6l
+a slut for fun
+/register?i=
+Who have c p
+D m new group
+DM for young
