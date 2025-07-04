@@ -37,3 +37,7 @@ You should open following script files to see what it is doing and to adjust its
 **session-moderator-list-unban-keep-rights.sh** - maintain list of selected Session IDs as a community moderators or admins and keep these IDs not banned. Running this script reverts malevolent community admins removals/bans of other mods/admins.
 
 **session-sogs-delete-messages-containing.sh** - search SOGS database for a messages containing yours defined text (possible to partial match: %ery b%d phras%). After the text is output, you can optionally delete matching messages
+
+**session-sogs-ban-delete-user.sh** - helps to ban user on a whole server and delete all their content
+
+**session-sogs-unban-user.sh** - helps to unban user on a whole server
