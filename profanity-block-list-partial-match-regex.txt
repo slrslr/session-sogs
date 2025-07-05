@@ -1,10 +1,17 @@
 # WARNING 1: messages containing following phrases will be deleted
-# WARNING 2: if your regex is made to match "bad" then it will delete for example messages containing "Sindibad." (partial matching)
+# WARNING 2: if your regex is made to match "bad" then it will delete for example messages containing "Sinbad." (partial matching)
 # NOTE: regexes may contain: \[[:alpha:\]] alpha letter/s, \[[:digit:\]] digit/s, \[[:alnum:\]] Any alphanumeric/s, \[[:graph:\]] any printable, \[[:print:\]] any printable and space
 # NOTE: Letters that may be doubled, trippled etc. by the spammer, one can write a regex: pp*ii*zz*zz*aa* (matches for example pppiizzaaaaaaaa)
+# low effective matching of a Session IDs: 
 05[[:alnum:]]{64}
-##05[[:alnum:]]{13,}
+# low effective matching of a Session IDs: 
 B05[[:alnum:]]{64}[[:punct:]]?
+# partial Session IDs matching? 05[[:alnum:]]{13,}
+# less efective matching of a Session IDs: (?<!B[[:alnum:]])05[[:punct:]\s]*[[:alnum:]](?:[[:punct:]\s]*[[:alnum:]]){63}(?![[:alnum:]])
+# This should match more Session IDs spaning multiple liens or separated by spec. characters:
+(?<!\?public_key=)05[^0-9a-zA-Z]*([0-9a-f][^0-9a-zA-Z]*){64}
+t[[:punct:]]me
+t[[:space:]]dd*oo*tt*[[:space:]]me
 bounce[[:punct:]]money
 bouncedd*oo*tt*money
 bounce[[:space:]]dd*oo*tt*[[:space:]]money
