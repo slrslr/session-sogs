@@ -42,4 +42,6 @@ You should open following script files to see what it is doing and to adjust its
 
 **session-sogs-ban-delete-user.sh** - helps to ban user on a whole server and delete all their content
 
+**session-sogs-prune-communities-remove-old-messages.sh** - helps limiting number of messages stored in communities by deleting oldest ones
+
 **session-sogs-unban-user.sh** - helps to unban user on a whole server
